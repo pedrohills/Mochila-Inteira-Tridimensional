@@ -3,7 +3,7 @@
 - NodeJS
 
 ### Instruções
-- Instale as depenrencias
+- Instale as dependências
 ```
     npm install
 ```
